@@ -64,3 +64,130 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+hr {
+	width: 85%;
+}
+
+/* start header CSS */
+
+header {
+	text-align: center;
+	box-sizing: border-box;
+}
+
+header nav {
+	display: inline-block;
+	margin: 30px 0px;
+	width: 75%;
+}
+
+nav a {
+	display: inline-block;
+	width: 10%;
+	text-align: center;
+	text-decoration: none;
+	color: gray;
+}
+
+/* end of header CSS start intro CSS*/
+
+.intro {
+	text-align: center;
+	margin: 20px 0px 20px 0px;
+}
+
+.intro section {
+	display: inline-block;
+	border: 2px solid blue;
+	width: 42%;
+	height: 400px;
+}
+
+
+.intro img {
+	text-align: center;
+	
+}
+
+.intro .intro-a {
+	text-align: center;
+	
+}
+
+.intro .intro-a h1{
+	font-size: 42px;
+	margin-top: 10%;
+}
+
+/* end intro CSS* start company CSS*/
+
+.company-info-a {
+	text-align: center;
+	margin: 20px 0px 20px 0px;
+	
+}
+
+.company-info-a section{
+	display: inline-block;
+	text-align: left;
+	width: 42%;
+
+}
+
+.company-info-b {
+	text-align: center;
+	margin: 20px 0px 20px 0px;
+}
+
+.company-info-b section {
+	display: inline-block;
+	text-align: left;
+	width: 28%;
+	
+}
+
+/* end company CSS* start more code image CSS*/
+
+.more-code {
+	text-align: center;		
+}
+
+.more-code img {
+	width: 85%
+}
+
+/* end more code image CSS* start my-footer CSS*/
+
+.my-footer {
+	text-align: left;
+	width: 95%;
+	margin-left: 8%;
+}
+
+.my-footer section {
+	width: 89%;
+}
+
+/* end my-footer CSS* start copyright CSS*/
+
+.copyright {
+	text-align: center;
+}
+
+/* end copyright CSS */
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
