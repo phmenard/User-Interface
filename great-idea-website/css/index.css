@@ -92,35 +92,38 @@ nav a {
 
 /* end of header CSS start intro CSS*/
 
-.intro {
+.intro {	
+	/*text-align: center;
+	margin: 20px 0px 20px 0px;*/
+
 	text-align: center;
-	margin: 20px 0px 20px 0px;
+	margin-bottom: 100px;
 }
 
 .intro section {
 	display: inline-block;
-	border: 2px solid blue;
-	width: 42%;
-	height: 400px;
+	width: 20%;
+	
 }
 
 
 .intro img {
-	text-align: center;
-	
+	width: 80%;
+	height: 80%;
 }
 
 .intro .intro-a {
 	text-align: center;
+	margin-bottom: 20px;
 	
 }
 
 .intro .intro-a h1{
-	font-size: 42px;
+	font-size: 80px;
 	margin-top: 10%;
 }
 
-/* end intro CSS* start company CSS*/
+/* end intro CSS start company CSS*/
 
 .company-info-a {
 	text-align: center;
@@ -175,8 +178,18 @@ nav a {
 	text-align: center;
 }
 
-/* end copyright CSS */
+/* end copyright CSS start button style*/
 
+button {
+	background-color: white;
+	border: 1px solid black;
+	width: 200px;
+	height: 35px;
+	font-size: 18px;
+  }
+
+
+/* end button CSS */
 
 
 
