@@ -98,7 +98,6 @@ nav a {
 
 	text-align: center;
 	margin-bottom: 100px;
-	vertical-align: top;
 }
 
 .intro section {
@@ -120,7 +119,7 @@ nav a {
 }
 
 .intro .intro-a h1{
-	font-size: 150%;
+	font-size: 80px;
 	margin-top: 10%;
 }
 
@@ -184,13 +183,9 @@ nav a {
 button {
 	background-color: white;
 	border: 1px solid black;
-	width: 50%;
+	width: 200px;
 	height: 35px;
 	font-size: 18px;
-  }
-
-  button p {
-	  width: 50%;
   }
 
 
